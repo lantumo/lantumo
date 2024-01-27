@@ -1,5 +1,5 @@
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frajeshkumar997&psig=AOvVaw0o0f4pjJxtZDGQrBkQalEH&ust=1706446303907000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDY8qjO_YMDFQAAAAAdAAAAABAF">
+<img src="https://iconscout.com/lottie-animation/programmer-working-on-pc-3917154">
 <h1 align="center">Hi 👋, I'm lantumo birhanu</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw15HET7EXhx-ZMqiqx1Pv7o&ust=1706446036657000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiTspPN_YMDFQAAAAAdAAAAABAK" alt="programming gif">
